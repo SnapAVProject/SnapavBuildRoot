@@ -1,0 +1,30 @@
+[submodule "nuc970_buildroot"]
+	path = nuc970_buildroot
+	url = ssh://1008186@52.83.4.200:29418/snapav_8d/nuc970_buildroot
+[submodule "build"]
+	path = build
+	url = ssh://1008186@52.83.4.200:29418/snapav_8d/build
+[submodule "linux3.10"]
+	path = linux3.10
+	url = ssh://1008186@52.83.4.200:29418/snapav_8d/linux3.10
+[submodule "snapav_app"]
+	path = snapav_app
+	url = ssh://1008186@52.83.4.200:29418/snapav_8d/snapav_app
+[submodule "uboot"]
+	path = uboot
+	url = ssh://1008186@52.83.4.200:29418/snapav_8d/uboot
+[submodule "web/snapav_12d_web"]
+	path = web/snapav_12d_web
+	url = ssh://1008186@52.83.4.200:29418/web/snapav_12d
+[submodule "web/snapav_16d_web"]
+	path = web/snapav_16d_web
+	url = ssh://1008186@52.83.4.200:29418/web/snapav_16d
+[submodule "web/snapav_8d_web"]
+	path = web/snapav_8d_web
+	url = ssh://1008186@52.83.4.200:29418/web/snapav_8d
+[submodule "web/snapav_2d_web"]
+	path = web/snapav_2d_web
+	url = ssh://1008186@52.83.4.200:29418/web/snapav_2d
+[submodule "web/snapav_5.1_web"]
+	path = web/snapav_5.1_web
+	url = ssh://1008186@52.83.4.200:29418/web/snapav_5.1
