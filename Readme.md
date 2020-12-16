@@ -8,7 +8,7 @@ make toolchain
 
 ## 2 nomorl build
 ```
-make boardtype={type} appversion={appversion} dspversion=dspversion deletedatabase={true/false}`
+make boardtype={boardtype} appversion={appversion} dspversion=dspversion deletedatabase={true/false}`
 ```
 
 
