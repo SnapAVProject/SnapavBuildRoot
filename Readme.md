@@ -1,3 +1,9 @@
+# get source code
+
+```
+git clone --recursive http://10.10.1.33:3000/SnapAV-8D/Snapav.git
+```
+
 # build step
 ## 1 first build, only need to do once 
 ```
