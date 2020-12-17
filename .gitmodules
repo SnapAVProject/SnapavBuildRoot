@@ -10,21 +10,27 @@
 [submodule "snapav_app"]
 	path = snapav_app
 	url = ssh://1008186@52.83.4.200:29418/snapav_8d/snapav_app
+	branch = develop
 [submodule "uboot"]
 	path = uboot
 	url = ssh://1008186@52.83.4.200:29418/snapav_8d/uboot
 [submodule "web/snapav_12d_web"]
 	path = web/snapav_12d_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_12d
+	branch = develop
 [submodule "web/snapav_16d_web"]
 	path = web/snapav_16d_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_16d
+	branch = develop
 [submodule "web/snapav_8d_web"]
 	path = web/snapav_8d_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_8d
+	branch = develop
 [submodule "web/snapav_2d_web"]
 	path = web/snapav_2d_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_2d
+	branch = develop
 [submodule "web/snapav_5.1_web"]
 	path = web/snapav_5.1_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_5.1
+	branch = develop
