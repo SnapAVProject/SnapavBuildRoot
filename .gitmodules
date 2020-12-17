@@ -10,7 +10,7 @@
 [submodule "snapav_app"]
 	path = snapav_app
 	url = ssh://1008186@52.83.4.200:29418/snapav_8d/snapav_app
-	branch = develop
+	branch = master
 [submodule "uboot"]
 	path = uboot
 	url = ssh://1008186@52.83.4.200:29418/snapav_8d/uboot
