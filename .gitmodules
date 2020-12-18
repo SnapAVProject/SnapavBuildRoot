@@ -34,3 +34,7 @@
 	path = web/snapav_5.1_web
 	url = ssh://1008186@52.83.4.200:29418/web/snapav_5.1
 	branch = develop
+[submodule "snapavapp5.1"]
+	path = snapavapp5.1
+	url = ssh://git@devops.hansong-china.com:33351/linux-android/snapav/snapavapp5.1.git
+	branch = develop
